@@ -3,12 +3,7 @@ We are replicating the popular night time TV show family feud. Our web applicati
 
 # Key Features 
 - Single Player Mode
-    - Timer 
-    -Strech Goal :Store User Scores in Database
-    -Strech Goal :Different diffuculty Levels 
--Multi-Player Mode
-  - Can play with two people 
-  - Strech Goal -- Team Games 
+- Multi Player Mode
 - User Authentication 
 - Home Screen Display
 
