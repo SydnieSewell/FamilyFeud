@@ -11,4 +11,3 @@ We are replicating the popular night time TV show family feud. Our web applicati
 # Built With
 - Javascript
 - HTML 
-- Home Screen Display
