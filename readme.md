@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./public/title.png" alt="title logo" width="200"/>
+<img src="./public/title_logo.png" alt="title logo" width="200"/>
   
 This app is currently available at ➡ https://familyfeudproject.onrender.com
 
