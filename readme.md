@@ -32,3 +32,8 @@ Privacy Settings
 Internationalization
 
 
+
+<div align="center">
+<img src="./public/home_screen.png" alt="title logo" width="200"/>
+
+</div>
